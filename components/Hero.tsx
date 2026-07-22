@@ -9,11 +9,6 @@ export default function Hero() {
         aria-hidden
         className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(184,150,62,0.18),transparent_55%),radial-gradient(ellipse_at_bottom_left,rgba(30,41,59,0.9),transparent_60%)]"
       />
-      <div
-        aria-hidden
-        className="absolute inset-y-0 right-0 hidden w-1/3 border-l border-white/5 bg-white/[0.02] lg:block"
-      />
-
       <div className="relative mx-auto w-full max-w-6xl px-6 py-32">
         <p className="mb-6 flex items-center gap-4 text-sm font-medium uppercase tracking-[0.3em] text-gold-light">
           <span className="h-px w-12 bg-gold-light" />
