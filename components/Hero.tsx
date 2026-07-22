@@ -53,11 +53,11 @@ export default function Hero() {
             </dd>
           </div>
           <div>
-            <dt className="text-sm text-white/50">Posgrado</dt>
+            <dt className="text-sm text-white/50">Perito traductor</dt>
             <dd className="mt-1 font-serif text-4xl text-gold-light">
-              Maestría
+              No. 34
               <span className="block text-sm font-sans text-white/50">
-                en Derecho Corporativo
+                Supremo Tribunal de Justicia de Sonora
               </span>
             </dd>
           </div>

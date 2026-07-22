@@ -30,7 +30,7 @@ const roles = [
     title: "Abogado",
     org: "Fontes y Asociados",
     place: "Hermosillo, Sonora",
-    text: "Litigio en materias administrativa, fiscal, civil, familiar, mercantil y penal. Asesoría corporativa.",
+    text: "Litigio en materias administrativa, fiscal, civil, familiar, mercantil y penal. Asesoría corporativa y traducción jurídica inglés-español.",
     current: false,
   },
 ];

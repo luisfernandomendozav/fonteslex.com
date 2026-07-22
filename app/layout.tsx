@@ -17,11 +17,12 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://fonteslex.com"),
   title: "Fonteslex | Lic. Eleazar Fontes Acuña — Abogado Corporativo y Litigante",
   description:
-    "Despacho jurídico en Hermosillo, Sonora. Asesoría corporativa a empresas nacionales y extranjeras del sector minero, litigio civil, mercantil, laboral, administrativo y familiar.",
+    "Despacho jurídico en Hermosillo, Sonora. Asesoría corporativa a empresas nacionales y extranjeras del sector minero, litigio civil, mercantil, laboral, administrativo y familiar. Perito traductor inglés-español No. 34 del Supremo Tribunal de Justicia del Estado de Sonora.",
   keywords: [
     "abogado Hermosillo",
     "derecho corporativo Sonora",
     "derecho minero México",
+    "perito traductor Sonora",
     "litigio civil mercantil",
     "juicio de amparo",
     "Fonteslex",

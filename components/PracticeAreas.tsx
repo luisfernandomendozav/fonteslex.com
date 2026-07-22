@@ -18,16 +18,16 @@ const areas = [
     text: "Defensa y asesoría preventiva para empresas en conflictos individuales y colectivos de trabajo.",
   },
   {
-    title: "Derecho Administrativo",
-    text: "Impugnación de actos de autoridad y defensa frente a procedimientos administrativos estatales y federales.",
-  },
-  {
-    title: "Juicio de Amparo",
-    text: "Defensa constitucional de personas y empresas, con formación especializada por la Suprema Corte de Justicia de la Nación.",
+    title: "Derecho Administrativo y Amparo",
+    text: "Impugnación de actos de autoridad y juicio de amparo, con formación especializada por la Suprema Corte de Justicia de la Nación.",
   },
   {
     title: "Derecho Familiar",
     text: "Litigio familiar con especialidad en derecho de la infancia y justicia familiar.",
+  },
+  {
+    title: "Traducción y Peritaje",
+    text: "Traducción certificada de documentos legales e interpretación simultánea inglés-español como perito autorizado No. 34 del Supremo Tribunal de Justicia de Sonora.",
   },
   {
     title: "Negociación Internacional",
