@@ -14,8 +14,8 @@ const highlights = [
     text: "Amplia experiencia en litigio en materias civil, administrativa, laboral, mercantil y familiar, ante tribunales estatales y federales.",
   },
   {
-    title: "Traducción e interpretación jurídica",
-    text: "Perito traductor No. 34 del Supremo Tribunal de Justicia del Estado de Sonora. Traducción e interpretación simultánea inglés-español.",
+    title: "Formación especializada",
+    text: "Maestría en Derecho Corporativo y diplomados en Juicio de Amparo y Derechos Humanos por la Suprema Corte de Justicia de la Nación.",
   },
 ];
 

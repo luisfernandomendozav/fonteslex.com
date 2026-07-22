@@ -9,9 +9,9 @@ export default function Contact() {
         <div className="grid gap-12 lg:grid-cols-2">
           <div>
             <p className="max-w-xl text-lg leading-relaxed text-ink-soft">
-              Con gusto atenderemos su asunto corporativo, litigio o necesidad
-              de traducción certificada. La primera conversación nos permite
-              entender su caso y proponerle una estrategia clara.
+              Con gusto atenderemos su asunto corporativo o de litigio. La
+              primera conversación nos permite entender su caso y proponerle
+              una estrategia clara.
             </p>
 
             <dl className="mt-10 space-y-6">

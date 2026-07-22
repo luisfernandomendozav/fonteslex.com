@@ -7,7 +7,6 @@ const links = [
   { href: "#practica", label: "Áreas de Práctica" },
   { href: "#trayectoria", label: "Trayectoria" },
   { href: "#formacion", label: "Formación" },
-  { href: "#clientes", label: "Clientes" },
   { href: "#contacto", label: "Contacto" },
 ];
 

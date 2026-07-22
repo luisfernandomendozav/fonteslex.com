@@ -22,11 +22,6 @@ const degrees = [
     org: "Suprema Corte de Justicia de la Nación",
   },
   {
-    year: "1998",
-    title: "Curso de Traducción e Interpretación en Corte",
-    org: "Instituto Agnese Haury · Universidad de Arizona, Tucson",
-  },
-  {
     year: "1992 — 1998",
     title: "Licenciatura en Derecho",
     org: "Universidad de Sonora · Unidad Centro, Hermosillo",
